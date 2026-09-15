@@ -34,19 +34,13 @@ json
   "email": "ali@example.com",
   "age": 22
 }
-Tech Stack
+```
+
+### Tech Stack
 Node.js
 
 Express.js
 
-Author
+```
+### Author
 Muhammad Nihaas
-
-text
-
-Then in the terminal, push it:
-
-```bash
-git add .
-git commit -m "Add README"
-git push
